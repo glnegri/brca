@@ -1,2 +1,2 @@
-# Processing of Proteome Discoverer output
-Code to process Proteome Discoverer 2.4 output and merge 38 batches of TMT proteomics results.
+# TMT MS analysis
+This repository contains the code to process the Proteome discoverer output  for the breast cancer TMT proteomics set PXD024322.

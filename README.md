@@ -1,2 +1,2 @@
 # TMT MS analysis
-This repository contains the code to process the Proteome discoverer output  for the breast cancer TMT proteomics set PXD024322.
+This repository contains the code to process Proteome Discoverer outputs for the breast cancer TMT proteomics set PXD024322.
